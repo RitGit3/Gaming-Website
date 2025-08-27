@@ -16,7 +16,7 @@ export function GamingHeader() {
               <div className="absolute -top-1 -right-1 w-3 h-3 bg-green-400 rounded-full animate-pulse"></div>
             </div>
             <div>
-              <h1 className="text-white text-xl">GamerPortfolio</h1>
+              <h1 className="text-white text-xl">RiT</h1>
               <div className="text-xs text-cyan-400">Level 99 Developer</div>
             </div>
           </div>

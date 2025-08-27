@@ -47,7 +47,7 @@ export function EnhancedGamingHeader() {
                 <div className="absolute inset-0 bg-gradient-to-r from-purple-500 to-cyan-400 rounded-lg blur opacity-0 group-hover:opacity-50 transition-opacity"></div>
               </div>
               <div className="hidden sm:block">
-                <h1 className="text-white text-xl">GamerPortfolio</h1>
+                <h1 className="text-white text-xl">RiT</h1>
                 <div className="text-xs text-cyan-400">Level 99 Developer</div>
               </div>
             </div>
