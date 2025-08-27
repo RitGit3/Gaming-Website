@@ -125,7 +125,7 @@ export function GamingPersonalFooter() {
         <div className="border-t border-gray-800 pt-8 text-center">
           <div className="flex flex-col md:flex-row items-center justify-between">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2025 GamerPortfolio. All rights reserved. Built with React & Tailwind CSS.
+              © 2025 RiT. All rights reserved. Built with React & Tailwind CSS.
             </p>
             <div className="flex items-center space-x-4">
               <span className="text-gray-400 text-sm">Status:</span>
