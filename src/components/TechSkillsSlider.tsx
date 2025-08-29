@@ -26,7 +26,7 @@ const techSkills = [
 ];
 
 export function TechSkillsSlider() {
-  const [animatedItems, setAnimatedItems] = useState<Set<number>>(new Set());
+  const [animatedItems, setAnimatedItems] = useState(new Set<number>());
 
   useEffect(() => {
     const interval = setInterval(() => {
